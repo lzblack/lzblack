@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg"><img src="assets/typing.svg" alt="I teach. I build. I study both." height="40"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzblack/lzblack/main/assets/typing-dark.svg"><img src="https://raw.githubusercontent.com/lzblack/lzblack/main/assets/typing.svg" alt="I teach. I build. I study both." height="40"></picture>
 
 [zhili.me](https://zhili.me/) · [zhili.dev](https://zhili.dev/) · hi@zhili.me
 
