@@ -58,8 +58,8 @@ def words(p: object, lang: str, date: str) -> list[str]:
 
 
 def shuffle(ws: list[str], seed: str) -> list[str]:
-    # A string seed gives the same order on every run and Python version 3.x,
-    # so a re-run on the same day leaves the README unchanged.
+    # A string seed gives the same order for the same input on the same Python
+    # (the Action pins 3.12), so a re-run on the same day leaves the README unchanged.
     out = list(ws)
     random.Random(seed).shuffle(out)
     return out
