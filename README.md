@@ -8,7 +8,7 @@
 - [data-center](https://dc.zhili.dev) · US data-center pushback, by county
 - [Discussed](https://discussed.dev) · Reddit and HN threads for any page
 - [Across the Hall](https://friends.zhili.dev) · The Friends apartments in 3D
-- [connections-game](https://connections.zhili.dev) · A daily Chinese word puzzle
+- [connections-game](https://connections.zhili.dev) · A daily word puzzle in English and Chinese
 
 #### Teaching
 - [OIM3690 · Web Development with AI](https://oim3690.github.io/)
@@ -20,13 +20,13 @@
 
 <table><tr><td valign="top">
 
-[**English**](https://connections.zhili.dev/)
+[**English**](https://connections.zhili.dev/?lang=en)
 
 <table><tr><td>GLASS</td><td>GLOVE</td><td>BEAM</td><td>BOOT</td></tr><tr><td>SCARF</td><td>PLANK</td><td>TILE</td><td>SHEET</td></tr><tr><td>QUILT</td><td>JACKET</td><td>BRICK</td><td>LENS</td></tr><tr><td>PILLOW</td><td>MIRROR</td><td>WINDOW</td><td>BLANKET</td></tr></table>
 
 </td><td valign="top">
 
-[**中文**](https://connections.zhili.dev/)
+[**中文**](https://connections.zhili.dev/?lang=zh)
 
 <table><tr><td>哲学</td><td>上海</td><td>麦片</td><td>故事</td></tr><tr><td>科学</td><td>成都</td><td>牛奶</td><td>北京</td></tr><tr><td>油条</td><td>包子</td><td>豆浆</td><td>化学</td></tr><tr><td>广州</td><td>文学</td><td>数学</td><td>蜂蜜</td></tr></table>
 
