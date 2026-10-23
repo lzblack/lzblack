@@ -16,7 +16,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 API = "https://connections.zhili.dev/api/puzzles/{lang}/{date}"
-PLAY = "https://connections.zhili.dev/"
+PLAY = "https://connections.zhili.dev/?lang={lang}"
 # Same zones as connections-game's src/lib/daily.ts: each language's puzzle
 # changes at local midnight.
 TIMEZONE = {"en": "America/New_York", "zh": "Asia/Shanghai"}
@@ -74,9 +74,9 @@ def section(en: list[str], zh: list[str]) -> str:
     return (
         "<details>\n<summary><b>Today's connections</b></summary>\n\n"
         '<table><tr><td valign="top">\n\n'
-        f"[**English**]({PLAY})\n\n{grid(en)}\n\n"
+        f"[**English**]({PLAY.format(lang='en')})\n\n{grid(en)}\n\n"
         '</td><td valign="top">\n\n'
-        f"[**中文**]({PLAY})\n\n{grid(zh)}\n\n"
+        f"[**中文**]({PLAY.format(lang='zh')})\n\n{grid(zh)}\n\n"
         "</td></tr></table>\n\n</details>"
     )
 

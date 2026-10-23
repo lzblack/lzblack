@@ -95,5 +95,6 @@ def test_replace_section_requires_one_ordered_pair(text):
 def test_section_has_both_grids_and_play_links():
     s = c.section(["A"] * 16, ["甲"] * 16)
     assert s.count("<table>") == 3  # the outer two-cell table and two grids
-    assert s.count("https://connections.zhili.dev/") == 2
+    assert "(https://connections.zhili.dev/?lang=en)" in s
+    assert "(https://connections.zhili.dev/?lang=zh)" in s
     assert "English" in s and "中文" in s
