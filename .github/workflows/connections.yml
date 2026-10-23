@@ -1,0 +1,45 @@
+# Puts today's connections puzzles into README.md.
+# The English puzzle changes at midnight New York time (04:00/05:00 UTC), the
+# Chinese one at midnight Shanghai time (16:00 UTC), so this runs after each.
+name: connections
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+    - cron: "30 16 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", "tests/**", ".github/workflows/connections.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: connections
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Test
+        run: |
+          python3 -m pip install --quiet "pytest>=8"
+          python3 -m pytest -q
+
+      - name: Update README
+        if: github.event_name != 'push'
+        run: python3 -m scripts.connections README.md
+
+      - name: Commit if changed
+        if: github.event_name != 'push'
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Today's connections" README.md
+          git push
