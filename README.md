@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>GLASS</td><td>GLOVE</td><td>BEAM</td><td>BOOT</td></tr><tr><td>SCARF</td><td>PLANK</td><td>TILE</td><td>SHEET</td></tr><tr><td>QUILT</td><td>JACKET</td><td>BRICK</td><td>LENS</td></tr><tr><td>PILLOW</td><td>MIRROR</td><td>WINDOW</td><td>BLANKET</td></tr></table>
+<table><tr><td>TERMINAL</td><td>HANGAR</td><td>PORT</td><td>ORBIT</td></tr><tr><td>RUNWAY</td><td>TOWER</td><td>CAPTAIN</td><td>PILOT</td></tr><tr><td>GATE</td><td>CREW</td><td>LAUNCH</td><td>CABIN</td></tr><tr><td>DOCK</td><td>DECK</td><td>BRIDGE</td><td>MISSION</td></tr></table>
 
 </td><td valign="top">
 
