@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>鸭血</td><td>杯具</td><td>肩膀</td><td>脑花</td></tr><tr><td>毛笔</td><td>神马</td><td>胳膊</td><td>毛病</td></tr><tr><td>毛肚</td><td>童鞋</td><td>鸭梨</td><td>脑袋</td></tr><tr><td>嗓子</td><td>黄喉</td><td>毛巾</td><td>毛衣</td></tr></table>
+<table><tr><td>沙拉</td><td>抹茶</td><td>燕麦</td><td>沙发</td></tr><tr><td>王者</td><td>黄金</td><td>白银</td><td>耐心</td></tr><tr><td>开朗</td><td>奶盖</td><td>幽默</td><td>拿铁</td></tr><tr><td>大方</td><td>青铜</td><td>美式</td><td>温柔</td></tr></table>
 
 </td></tr></table>
 
