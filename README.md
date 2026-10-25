@@ -22,13 +22,13 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>TERMINAL</td><td>HANGAR</td><td>PORT</td><td>ORBIT</td></tr><tr><td>RUNWAY</td><td>TOWER</td><td>CAPTAIN</td><td>PILOT</td></tr><tr><td>GATE</td><td>CREW</td><td>LAUNCH</td><td>CABIN</td></tr><tr><td>DOCK</td><td>DECK</td><td>BRIDGE</td><td>MISSION</td></tr></table>
+<table><tr><td>HEEL</td><td>PINE</td><td>CHOP</td><td>SOLE</td></tr><tr><td>WING</td><td>PALM</td><td>LACE</td><td>STEAK</td></tr><tr><td>TONGUE</td><td>RIB</td><td>BATTER</td><td>LOAF</td></tr><tr><td>CEDAR</td><td>DOUGH</td><td>WILLOW</td><td>CRUST</td></tr></table>
 
 </td><td valign="top">
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>哲学</td><td>上海</td><td>麦片</td><td>故事</td></tr><tr><td>科学</td><td>成都</td><td>牛奶</td><td>北京</td></tr><tr><td>油条</td><td>包子</td><td>豆浆</td><td>化学</td></tr><tr><td>广州</td><td>文学</td><td>数学</td><td>蜂蜜</td></tr></table>
+<table><tr><td>鸭血</td><td>杯具</td><td>肩膀</td><td>脑花</td></tr><tr><td>毛笔</td><td>神马</td><td>胳膊</td><td>毛病</td></tr><tr><td>毛肚</td><td>童鞋</td><td>鸭梨</td><td>脑袋</td></tr><tr><td>嗓子</td><td>黄喉</td><td>毛巾</td><td>毛衣</td></tr></table>
 
 </td></tr></table>
 
