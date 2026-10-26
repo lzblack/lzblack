@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>沙拉</td><td>抹茶</td><td>燕麦</td><td>沙发</td></tr><tr><td>王者</td><td>黄金</td><td>白银</td><td>耐心</td></tr><tr><td>开朗</td><td>奶盖</td><td>幽默</td><td>拿铁</td></tr><tr><td>大方</td><td>青铜</td><td>美式</td><td>温柔</td></tr></table>
+<table><tr><td>七上八下</td><td>守株待兔</td><td>人间清醒</td><td>蚌埠住了</td></tr><tr><td>夫妻肺片</td><td>九牛一毛</td><td>五花八门</td><td>雪糕刺客</td></tr><tr><td>芜湖起飞</td><td>三心二意</td><td>鱼香肉丝</td><td>虎皮青椒</td></tr><tr><td>浑水摸鱼</td><td>狐假虎威</td><td>蚂蚁上树</td><td>画蛇添足</td></tr></table>
 
 </td></tr></table>
 
