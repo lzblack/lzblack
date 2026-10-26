@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>HEEL</td><td>PINE</td><td>CHOP</td><td>SOLE</td></tr><tr><td>WING</td><td>PALM</td><td>LACE</td><td>STEAK</td></tr><tr><td>TONGUE</td><td>RIB</td><td>BATTER</td><td>LOAF</td></tr><tr><td>CEDAR</td><td>DOUGH</td><td>WILLOW</td><td>CRUST</td></tr></table>
+<table><tr><td>CASHEW</td><td>CARROT</td><td>PECAN</td><td>THYME</td></tr><tr><td>ONION</td><td>PEPPER</td><td>CLOVE</td><td>SAGE</td></tr><tr><td>WALNUT</td><td>POTATO</td><td>MELON</td><td>PEACH</td></tr><tr><td>MANGO</td><td>CUMIN</td><td>ALMOND</td><td>GRAPE</td></tr></table>
 
 </td><td valign="top">
 
