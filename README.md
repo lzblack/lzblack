@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>七上八下</td><td>守株待兔</td><td>人间清醒</td><td>蚌埠住了</td></tr><tr><td>夫妻肺片</td><td>九牛一毛</td><td>五花八门</td><td>雪糕刺客</td></tr><tr><td>芜湖起飞</td><td>三心二意</td><td>鱼香肉丝</td><td>虎皮青椒</td></tr><tr><td>浑水摸鱼</td><td>狐假虎威</td><td>蚂蚁上树</td><td>画蛇添足</td></tr></table>
+<table><tr><td>脾气</td><td>进步</td><td>说话</td><td>笑话</td></tr><tr><td>跑步</td><td>力气</td><td>想法</td><td>让步</td></tr><tr><td>看法</td><td>生气</td><td>办法</td><td>散步</td></tr><tr><td>废话</td><td>神话</td><td>运气</td><td>方法</td></tr></table>
 
 </td></tr></table>
 
