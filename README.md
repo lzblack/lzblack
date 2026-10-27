@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>CASHEW</td><td>CARROT</td><td>PECAN</td><td>THYME</td></tr><tr><td>ONION</td><td>PEPPER</td><td>CLOVE</td><td>SAGE</td></tr><tr><td>WALNUT</td><td>POTATO</td><td>MELON</td><td>PEACH</td></tr><tr><td>MANGO</td><td>CUMIN</td><td>ALMOND</td><td>GRAPE</td></tr></table>
+<table><tr><td>MERCY</td><td>PRIDE</td><td>TRUTH</td><td>HOPE</td></tr><tr><td>GREED</td><td>SHAME</td><td>FAITH</td><td>FREEDOM</td></tr><tr><td>GRACE</td><td>SLOTH</td><td>LUST</td><td>PEACE</td></tr><tr><td>FEAR</td><td>ANGER</td><td>JUSTICE</td><td>ENVY</td></tr></table>
 
 </td><td valign="top">
 
