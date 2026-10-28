@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>脾气</td><td>进步</td><td>说话</td><td>笑话</td></tr><tr><td>跑步</td><td>力气</td><td>想法</td><td>让步</td></tr><tr><td>看法</td><td>生气</td><td>办法</td><td>散步</td></tr><tr><td>废话</td><td>神话</td><td>运气</td><td>方法</td></tr></table>
+<table><tr><td>太阳</td><td>太极</td><td>自由</td><td>以来</td></tr><tr><td>以后</td><td>如此</td><td>如今</td><td>如何</td></tr><tr><td>太后</td><td>如果</td><td>自己</td><td>太空</td></tr><tr><td>以前</td><td>自然</td><td>以为</td><td>自信</td></tr></table>
 
 </td></tr></table>
 
