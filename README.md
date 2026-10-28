@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>MERCY</td><td>PRIDE</td><td>TRUTH</td><td>HOPE</td></tr><tr><td>GREED</td><td>SHAME</td><td>FAITH</td><td>FREEDOM</td></tr><tr><td>GRACE</td><td>SLOTH</td><td>LUST</td><td>PEACE</td></tr><tr><td>FEAR</td><td>ANGER</td><td>JUSTICE</td><td>ENVY</td></tr></table>
+<table><tr><td>HAVARTI</td><td>DRAWBRIDGE</td><td>BASKET</td><td>SUSPENSION</td></tr><tr><td>BRIE</td><td>SOFT</td><td>STING</td><td>GOUDA</td></tr><tr><td>CABLE</td><td>CANNON</td><td>MUENSTER</td><td>SKIN</td></tr><tr><td>BASE</td><td>FLEECE</td><td>ARCH</td><td>HUSTLE</td></tr></table>
 
 </td><td valign="top">
 
