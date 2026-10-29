@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>HAVARTI</td><td>DRAWBRIDGE</td><td>BASKET</td><td>SUSPENSION</td></tr><tr><td>BRIE</td><td>SOFT</td><td>STING</td><td>GOUDA</td></tr><tr><td>CABLE</td><td>CANNON</td><td>MUENSTER</td><td>SKIN</td></tr><tr><td>BASE</td><td>FLEECE</td><td>ARCH</td><td>HUSTLE</td></tr></table>
+<table><tr><td>CUMULUS</td><td>BOWLINE</td><td>CIRRUS</td><td>CLOVE</td></tr><tr><td>CRACKER</td><td>REEF</td><td>SIDE</td><td>PLACE</td></tr><tr><td>GRAND</td><td>MINOR</td><td>FLAT</td><td>CLEAT</td></tr><tr><td>MAJOR</td><td>NIMBUS</td><td>STRATUS</td><td>WORKS</td></tr></table>
 
 </td><td valign="top">
 
