@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>太阳</td><td>太极</td><td>自由</td><td>以来</td></tr><tr><td>以后</td><td>如此</td><td>如今</td><td>如何</td></tr><tr><td>太后</td><td>如果</td><td>自己</td><td>太空</td></tr><tr><td>以前</td><td>自然</td><td>以为</td><td>自信</td></tr></table>
+<table><tr><td>银幕</td><td>银杏</td><td>铁锅</td><td>金鱼</td></tr><tr><td>银行</td><td>金秋</td><td>金牌</td><td>铁证</td></tr><tr><td>铜像</td><td>铜钱</td><td>金属</td><td>铜锣</td></tr><tr><td>铁人</td><td>铁路</td><td>银河</td><td>铜墙</td></tr></table>
 
 </td></tr></table>
 
