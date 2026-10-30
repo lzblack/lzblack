@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>CUMULUS</td><td>BOWLINE</td><td>CIRRUS</td><td>CLOVE</td></tr><tr><td>CRACKER</td><td>REEF</td><td>SIDE</td><td>PLACE</td></tr><tr><td>GRAND</td><td>MINOR</td><td>FLAT</td><td>CLEAT</td></tr><tr><td>MAJOR</td><td>NIMBUS</td><td>STRATUS</td><td>WORKS</td></tr></table>
+<table><tr><td>BERET</td><td>STETSON</td><td>NOTE</td><td>SNAP</td></tr><tr><td>OVER</td><td>FRONT</td><td>RADIO</td><td>TEXT</td></tr><tr><td>FEDORA</td><td>POCKET</td><td>SOUND</td><td>TIDAL</td></tr><tr><td>TRILBY</td><td>SHOCK</td><td>BLOODED</td><td>SHOULDER</td></tr></table>
 
 </td><td valign="top">
 
