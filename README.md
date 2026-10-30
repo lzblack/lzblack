@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>银幕</td><td>银杏</td><td>铁锅</td><td>金鱼</td></tr><tr><td>银行</td><td>金秋</td><td>金牌</td><td>铁证</td></tr><tr><td>铜像</td><td>铜钱</td><td>金属</td><td>铜锣</td></tr><tr><td>铁人</td><td>铁路</td><td>银河</td><td>铜墙</td></tr></table>
+<table><tr><td>蚌埠住了</td><td>蓝瘦香菇</td><td>雨女无瓜</td><td>洛阳纸贵</td></tr><tr><td>鱼香肉丝</td><td>宫保鸡丁</td><td>北京烤鸭</td><td>鸡你太美</td></tr><tr><td>邯郸学步</td><td>白手起家</td><td>面红耳赤</td><td>麻婆豆腐</td></tr><tr><td>乐不思蜀</td><td>夜郎自大</td><td>青椒肉丝</td><td>芜湖起飞</td></tr></table>
 
 </td></tr></table>
 
