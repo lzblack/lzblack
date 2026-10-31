@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>蚌埠住了</td><td>蓝瘦香菇</td><td>雨女无瓜</td><td>洛阳纸贵</td></tr><tr><td>鱼香肉丝</td><td>宫保鸡丁</td><td>北京烤鸭</td><td>鸡你太美</td></tr><tr><td>邯郸学步</td><td>白手起家</td><td>面红耳赤</td><td>麻婆豆腐</td></tr><tr><td>乐不思蜀</td><td>夜郎自大</td><td>青椒肉丝</td><td>芜湖起飞</td></tr></table>
+<table><tr><td>山顶</td><td>地震</td><td>天气</td><td>海边</td></tr><tr><td>地图</td><td>天真</td><td>地铁</td><td>海洋</td></tr><tr><td>地球</td><td>山脉</td><td>海报</td><td>天才</td></tr><tr><td>海鲜</td><td>山洞</td><td>天堂</td><td>山村</td></tr></table>
 
 </td></tr></table>
 
