@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>RAIL</td><td>CRAFT</td><td>BREASTSTROKE</td><td>CHIANTI</td></tr><tr><td>BAG</td><td>SHAKE</td><td>KEY</td><td>BUTTERFLY</td></tr><tr><td>BACKSTROKE</td><td>CARD</td><td>SHIRAZ</td><td>FREESTYLE</td></tr><tr><td>RIESLING</td><td>SURF</td><td>SKATE</td><td>MERLOT</td></tr></table>
+<table><tr><td>PILLORY</td><td>MAPLE</td><td>LAMBASTE</td><td>CHASSIS</td></tr><tr><td>CUCKOO</td><td>WILLOW</td><td>BIRCH</td><td>FLAY</td></tr><tr><td>POPLAR</td><td>BUMPER</td><td>ALARM</td><td>FENDER</td></tr><tr><td>SUNDIAL</td><td>GRANDFATHER</td><td>AXLE</td><td>RAKE</td></tr></table>
 
 </td><td valign="top">
 
