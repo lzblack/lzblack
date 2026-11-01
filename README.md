@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>山顶</td><td>地震</td><td>天气</td><td>海边</td></tr><tr><td>地图</td><td>天真</td><td>地铁</td><td>海洋</td></tr><tr><td>地球</td><td>山脉</td><td>海报</td><td>天才</td></tr><tr><td>海鲜</td><td>山洞</td><td>天堂</td><td>山村</td></tr></table>
+<table><tr><td>口号</td><td>面子</td><td>面条</td><td>手表</td></tr><tr><td>口罩</td><td>口味</td><td>头等</td><td>头脑</td></tr><tr><td>头发</td><td>头痛</td><td>面试</td><td>口红</td></tr><tr><td>面包</td><td>手机</td><td>手艺</td><td>手套</td></tr></table>
 
 </td></tr></table>
 
