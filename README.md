@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>口号</td><td>面子</td><td>面条</td><td>手表</td></tr><tr><td>口罩</td><td>口味</td><td>头等</td><td>头脑</td></tr><tr><td>头发</td><td>头痛</td><td>面试</td><td>口红</td></tr><tr><td>面包</td><td>手机</td><td>手艺</td><td>手套</td></tr></table>
+<table><tr><td>夏季</td><td>秋收</td><td>春天</td><td>冬眠</td></tr><tr><td>夏天</td><td>秋千</td><td>秋天</td><td>春节</td></tr><tr><td>春风</td><td>秋波</td><td>春卷</td><td>冬瓜</td></tr><tr><td>冬天</td><td>夏令</td><td>冬至</td><td>夏威夷</td></tr></table>
 
 </td></tr></table>
 
