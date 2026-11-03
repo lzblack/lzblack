@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>夏季</td><td>秋收</td><td>春天</td><td>冬眠</td></tr><tr><td>夏天</td><td>秋千</td><td>秋天</td><td>春节</td></tr><tr><td>春风</td><td>秋波</td><td>春卷</td><td>冬瓜</td></tr><tr><td>冬天</td><td>夏令</td><td>冬至</td><td>夏威夷</td></tr></table>
+<table><tr><td>鸽子</td><td>桌子</td><td>杯子</td><td>饺子</td></tr><tr><td>才子</td><td>王子</td><td>狮子</td><td>馒头</td></tr><tr><td>君子</td><td>兔子</td><td>燕子</td><td>包子</td></tr><tr><td>椅子</td><td>瓶子</td><td>公子</td><td>粽子</td></tr></table>
 
 </td></tr></table>
 
