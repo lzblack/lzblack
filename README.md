@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>CHAISE</td><td>BACK</td><td>HAIR</td><td>STILETTO</td></tr><tr><td>ARMCHAIR</td><td>DRAG</td><td>WEIGHT</td><td>SAFETY</td></tr><tr><td>CLIP</td><td>MULE</td><td>OTTOMAN</td><td>CLOG</td></tr><tr><td>WORK</td><td>FISH</td><td>ROCKER</td><td>LOAFER</td></tr></table>
+<table><tr><td>BATTLESHIP</td><td>OTHELLO</td><td>COBBLE</td><td>FLEA</td></tr><tr><td>CLUEDO</td><td>PASTE</td><td>STOCK</td><td>LIME</td></tr><tr><td>BULL</td><td>DECK</td><td>WALLOP</td><td>BEAR</td></tr><tr><td>SAND</td><td>CLOCK</td><td>JENGA</td><td>CORNER</td></tr></table>
 
 </td><td valign="top">
 
