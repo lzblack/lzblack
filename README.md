@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>鸽子</td><td>桌子</td><td>杯子</td><td>饺子</td></tr><tr><td>才子</td><td>王子</td><td>狮子</td><td>馒头</td></tr><tr><td>君子</td><td>兔子</td><td>燕子</td><td>包子</td></tr><tr><td>椅子</td><td>瓶子</td><td>公子</td><td>粽子</td></tr></table>
+<table><tr><td>革</td><td>木</td><td>丝</td><td>仁</td></tr><tr><td>金</td><td>义</td><td>礼</td><td>智</td></tr><tr><td>竹</td><td>石</td><td>风</td><td>米</td></tr><tr><td>颂</td><td>赋</td><td>土</td><td>雅</td></tr></table>
 
 </td></tr></table>
 
