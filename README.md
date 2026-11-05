@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>NIGHT</td><td>HAUL</td><td>SHAMBLE</td><td>TRUDGE</td></tr><tr><td>COAT</td><td>BRIOCHE</td><td>FOCACCIA</td><td>TURN</td></tr><tr><td>SOURDOUGH</td><td>SAUNTER</td><td>ESTATE</td><td>LUMBER</td></tr><tr><td>EXCISE</td><td>SALES</td><td>INCOME</td><td>PUMPERNICKEL</td></tr></table>
+<table><tr><td>PRIVATE</td><td>BIRD</td><td>GRAND</td><td>CHAIN</td></tr><tr><td>BENCH</td><td>SATIN</td><td>CORPORAL</td><td>RUNNING</td></tr><tr><td>CAPTAIN</td><td>CROSS</td><td>JURY</td><td>GENERAL</td></tr><tr><td>SMITH</td><td>MOCK</td><td>BOARD</td><td>BERRY</td></tr></table>
 
 </td><td valign="top">
 
