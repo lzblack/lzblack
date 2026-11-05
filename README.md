@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>革</td><td>木</td><td>丝</td><td>仁</td></tr><tr><td>金</td><td>义</td><td>礼</td><td>智</td></tr><tr><td>竹</td><td>石</td><td>风</td><td>米</td></tr><tr><td>颂</td><td>赋</td><td>土</td><td>雅</td></tr></table>
+<table><tr><td>吃瓜</td><td>打折</td><td>吃饭</td><td>跳舞</td></tr><tr><td>打工</td><td>打球</td><td>跳绳</td><td>看病</td></tr><tr><td>吃醋</td><td>看来</td><td>跳远</td><td>打扫</td></tr><tr><td>吃亏</td><td>看法</td><td>看书</td><td>跳高</td></tr></table>
 
 </td></tr></table>
 
