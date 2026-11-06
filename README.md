@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>PRIVATE</td><td>BIRD</td><td>GRAND</td><td>CHAIN</td></tr><tr><td>BENCH</td><td>SATIN</td><td>CORPORAL</td><td>RUNNING</td></tr><tr><td>CAPTAIN</td><td>CROSS</td><td>JURY</td><td>GENERAL</td></tr><tr><td>SMITH</td><td>MOCK</td><td>BOARD</td><td>BERRY</td></tr></table>
+<table><tr><td>DENTAL</td><td>SPRINT</td><td>HEALTH</td><td>BURN</td></tr><tr><td>LIABILITY</td><td>ALFREDO</td><td>SET</td><td>RELAY</td></tr><tr><td>CARBONARA</td><td>HURDLE</td><td>DASH</td><td>ARRABBIATA</td></tr><tr><td>PUTTANESCA</td><td>GLASSES</td><td>RENTERS</td><td>FLOWER</td></tr></table>
 
 </td><td valign="top">
 
