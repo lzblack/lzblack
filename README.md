@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>吃瓜</td><td>打折</td><td>吃饭</td><td>跳舞</td></tr><tr><td>打工</td><td>打球</td><td>跳绳</td><td>看病</td></tr><tr><td>吃醋</td><td>看来</td><td>跳远</td><td>打扫</td></tr><tr><td>吃亏</td><td>看法</td><td>看书</td><td>跳高</td></tr></table>
+<table><tr><td>天文</td><td>人间</td><td>水果</td><td>地震</td></tr><tr><td>地理</td><td>人口</td><td>地图</td><td>天气</td></tr><tr><td>天才</td><td>人生</td><td>人才</td><td>水泥</td></tr><tr><td>天真</td><td>水母</td><td>水平</td><td>地铁</td></tr></table>
 
 </td></tr></table>
 
