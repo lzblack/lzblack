@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>DENTAL</td><td>SPRINT</td><td>HEALTH</td><td>BURN</td></tr><tr><td>LIABILITY</td><td>ALFREDO</td><td>SET</td><td>RELAY</td></tr><tr><td>CARBONARA</td><td>HURDLE</td><td>DASH</td><td>ARRABBIATA</td></tr><tr><td>PUTTANESCA</td><td>GLASSES</td><td>RENTERS</td><td>FLOWER</td></tr></table>
+<table><tr><td>BELL</td><td>ENDIVE</td><td>SPLIT</td><td>WATERCRESS</td></tr><tr><td>FEDERAL</td><td>BOLT</td><td>RADICCHIO</td><td>CAPITAL</td></tr><tr><td>VAMOOSE</td><td>STEP</td><td>BALANCED</td><td>KNOB</td></tr><tr><td>MAN</td><td>OPERATING</td><td>DUCK</td><td>ARUGULA</td></tr></table>
 
 </td><td valign="top">
 
