@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>天文</td><td>人间</td><td>水果</td><td>地震</td></tr><tr><td>地理</td><td>人口</td><td>地图</td><td>天气</td></tr><tr><td>天才</td><td>人生</td><td>人才</td><td>水泥</td></tr><tr><td>天真</td><td>水母</td><td>水平</td><td>地铁</td></tr></table>
+<table><tr><td>故乡</td><td>故宫</td><td>长江</td><td>西医</td></tr><tr><td>东京</td><td>东方</td><td>故事</td><td>西域</td></tr><tr><td>长城</td><td>长征</td><td>长寿</td><td>东风</td></tr><tr><td>西游</td><td>东西</td><td>故障</td><td>西装</td></tr></table>
 
 </td></tr></table>
 
