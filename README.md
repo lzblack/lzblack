@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>故乡</td><td>故宫</td><td>长江</td><td>西医</td></tr><tr><td>东京</td><td>东方</td><td>故事</td><td>西域</td></tr><tr><td>长城</td><td>长征</td><td>长寿</td><td>东风</td></tr><tr><td>西游</td><td>东西</td><td>故障</td><td>西装</td></tr></table>
+<table><tr><td>十足</td><td>百年</td><td>九牛</td><td>五官</td></tr><tr><td>四季</td><td>兆头</td><td>千里</td><td>零食</td></tr><tr><td>亿万</td><td>七嘴</td><td>八卦</td><td>六神</td></tr><tr><td>二话</td><td>一心</td><td>三思</td><td>万事</td></tr></table>
 
 </td></tr></table>
 
