@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>BELL</td><td>ENDIVE</td><td>SPLIT</td><td>WATERCRESS</td></tr><tr><td>FEDERAL</td><td>BOLT</td><td>RADICCHIO</td><td>CAPITAL</td></tr><tr><td>VAMOOSE</td><td>STEP</td><td>BALANCED</td><td>KNOB</td></tr><tr><td>MAN</td><td>OPERATING</td><td>DUCK</td><td>ARUGULA</td></tr></table>
+<table><tr><td>RAPTUROUS</td><td>ADJUSTABLE</td><td>REVERSE</td><td>LID</td></tr><tr><td>DINGHY</td><td>JUMBO</td><td>LASH</td><td>BROW</td></tr><tr><td>CANOE</td><td>FIXED</td><td>ELATED</td><td>KAYAK</td></tr><tr><td>SKIFF</td><td>WITNESS</td><td>THRILLED</td><td>JUBILANT</td></tr></table>
 
 </td><td valign="top">
 
