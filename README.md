@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>RAPTUROUS</td><td>ADJUSTABLE</td><td>REVERSE</td><td>LID</td></tr><tr><td>DINGHY</td><td>JUMBO</td><td>LASH</td><td>BROW</td></tr><tr><td>CANOE</td><td>FIXED</td><td>ELATED</td><td>KAYAK</td></tr><tr><td>SKIFF</td><td>WITNESS</td><td>THRILLED</td><td>JUBILANT</td></tr></table>
+<table><tr><td>STAR</td><td>WASTE</td><td>FLASH</td><td>VILLANELLE</td></tr><tr><td>ARACHNOPHOBIA</td><td>FARM</td><td>HOME</td><td>ACROPHOBIA</td></tr><tr><td>GRASS</td><td>AGORAPHOBIA</td><td>LIMERICK</td><td>CLAUSTROPHOBIA</td></tr><tr><td>MOON</td><td>DAY</td><td>SONNET</td><td>HAIKU</td></tr></table>
 
 </td><td valign="top">
 
