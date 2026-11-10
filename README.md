@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>白菜</td><td>红烧</td><td>白天</td><td>黑板</td></tr><tr><td>白费</td><td>红军</td><td>绿灯</td><td>白云</td></tr><tr><td>黑客</td><td>绿茶</td><td>黑马</td><td>红包</td></tr><tr><td>红娘</td><td>绿豆</td><td>绿化</td><td>黑夜</td></tr></table>
+<table><tr><td>目前</td><td>目标</td><td>心跳</td><td>口红</td></tr><tr><td>手艺</td><td>手段</td><td>口罩</td><td>目光</td></tr><tr><td>心情</td><td>心愿</td><td>目的</td><td>手机</td></tr><tr><td>口才</td><td>心理</td><td>手术</td><td>口味</td></tr></table>
 
 </td></tr></table>
 
