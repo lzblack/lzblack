@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>STAR</td><td>WASTE</td><td>FLASH</td><td>VILLANELLE</td></tr><tr><td>ARACHNOPHOBIA</td><td>FARM</td><td>HOME</td><td>ACROPHOBIA</td></tr><tr><td>GRASS</td><td>AGORAPHOBIA</td><td>LIMERICK</td><td>CLAUSTROPHOBIA</td></tr><tr><td>MOON</td><td>DAY</td><td>SONNET</td><td>HAIKU</td></tr></table>
+<table><tr><td>AUTOCRACY</td><td>DELTOID</td><td>BICEP</td><td>DEMOCRACY</td></tr><tr><td>TURTLENECK</td><td>TRICEP</td><td>THEOCRACY</td><td>BOARD</td></tr><tr><td>LIGHT</td><td>COWL</td><td>GLUTEUS</td><td>MANDARIN</td></tr><tr><td>PETER PAN</td><td>OLIGARCHY</td><td>BAND</td><td>QUARTERS</td></tr></table>
 
 </td><td valign="top">
 
