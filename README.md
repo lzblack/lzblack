@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>十足</td><td>百年</td><td>九牛</td><td>五官</td></tr><tr><td>四季</td><td>兆头</td><td>千里</td><td>零食</td></tr><tr><td>亿万</td><td>七嘴</td><td>八卦</td><td>六神</td></tr><tr><td>二话</td><td>一心</td><td>三思</td><td>万事</td></tr></table>
+<table><tr><td>白菜</td><td>红烧</td><td>白天</td><td>黑板</td></tr><tr><td>白费</td><td>红军</td><td>绿灯</td><td>白云</td></tr><tr><td>黑客</td><td>绿茶</td><td>黑马</td><td>红包</td></tr><tr><td>红娘</td><td>绿豆</td><td>绿化</td><td>黑夜</td></tr></table>
 
 </td></tr></table>
 
