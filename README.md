@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>目前</td><td>目标</td><td>心跳</td><td>口红</td></tr><tr><td>手艺</td><td>手段</td><td>口罩</td><td>目光</td></tr><tr><td>心情</td><td>心愿</td><td>目的</td><td>手机</td></tr><tr><td>口才</td><td>心理</td><td>手术</td><td>口味</td></tr></table>
+<table><tr><td>成语</td><td>成熟</td><td>成功</td><td>受欢迎</td></tr><tr><td>受益</td><td>得罪</td><td>成绩</td><td>得力</td></tr><tr><td>得意</td><td>得分</td><td>失眠</td><td>失恋</td></tr><tr><td>受伤</td><td>失败</td><td>受骗</td><td>失望</td></tr></table>
 
 </td></tr></table>
 
