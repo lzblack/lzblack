@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>AUTOCRACY</td><td>DELTOID</td><td>BICEP</td><td>DEMOCRACY</td></tr><tr><td>TURTLENECK</td><td>TRICEP</td><td>THEOCRACY</td><td>BOARD</td></tr><tr><td>LIGHT</td><td>COWL</td><td>GLUTEUS</td><td>MANDARIN</td></tr><tr><td>PETER PAN</td><td>OLIGARCHY</td><td>BAND</td><td>QUARTERS</td></tr></table>
+<table><tr><td>HOUNDSTOOTH</td><td>TARTAN</td><td>MIDTERM</td><td>FRONT</td></tr><tr><td>ARGYLE</td><td>FALL</td><td>BERATE</td><td>BY-ELECTION</td></tr><tr><td>MARK</td><td>PAISLEY</td><td>PROOF</td><td>TEAR</td></tr><tr><td>RUNOFF</td><td>HAUL</td><td>ROAST</td><td>PRIMARY</td></tr></table>
 
 </td><td valign="top">
 
