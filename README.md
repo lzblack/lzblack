@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>成语</td><td>成熟</td><td>成功</td><td>受欢迎</td></tr><tr><td>受益</td><td>得罪</td><td>成绩</td><td>得力</td></tr><tr><td>得意</td><td>得分</td><td>失眠</td><td>失恋</td></tr><tr><td>受伤</td><td>失败</td><td>受骗</td><td>失望</td></tr></table>
+<table><tr><td>过期</td><td>感冒</td><td>发展</td><td>生日</td></tr><tr><td>过敏</td><td>过年</td><td>感动</td><td>生气</td></tr><tr><td>过程</td><td>发明</td><td>感觉</td><td>感谢</td></tr><tr><td>发现</td><td>生病</td><td>生活</td><td>发烧</td></tr></table>
 
 </td></tr></table>
 
