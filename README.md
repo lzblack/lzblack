@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>HOUNDSTOOTH</td><td>TARTAN</td><td>MIDTERM</td><td>FRONT</td></tr><tr><td>ARGYLE</td><td>FALL</td><td>BERATE</td><td>BY-ELECTION</td></tr><tr><td>MARK</td><td>PAISLEY</td><td>PROOF</td><td>TEAR</td></tr><tr><td>RUNOFF</td><td>HAUL</td><td>ROAST</td><td>PRIMARY</td></tr></table>
+<table><tr><td>CONCAVE</td><td>BIFOCAL</td><td>CURVEBALL</td><td>FASTBALL</td></tr><tr><td>CONVEX</td><td>KNUCKLEBALL</td><td>SRIRACHA</td><td>SLIDER</td></tr><tr><td>FIRE</td><td>TAHINI</td><td>BONE</td><td>YARD</td></tr><tr><td>HOISIN</td><td>TZATZIKI</td><td>PACK</td><td>WIDE-ANGLE</td></tr></table>
 
 </td><td valign="top">
 
