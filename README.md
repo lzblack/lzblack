@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>CONCAVE</td><td>BIFOCAL</td><td>CURVEBALL</td><td>FASTBALL</td></tr><tr><td>CONVEX</td><td>KNUCKLEBALL</td><td>SRIRACHA</td><td>SLIDER</td></tr><tr><td>FIRE</td><td>TAHINI</td><td>BONE</td><td>YARD</td></tr><tr><td>HOISIN</td><td>TZATZIKI</td><td>PACK</td><td>WIDE-ANGLE</td></tr></table>
+<table><tr><td>SUBSISTENCE</td><td>CHAIR</td><td>GAZE</td><td>HOLE</td></tr><tr><td>CHAMOMILE</td><td>OGLE</td><td>MATCHA</td><td>MIXED</td></tr><tr><td>BAND</td><td>BARTER</td><td>PIT</td><td>GAWK</td></tr><tr><td>PEER</td><td>DARJEELING</td><td>OOLONG</td><td>MARKET</td></tr></table>
 
 </td><td valign="top">
 
