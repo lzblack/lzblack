@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>过期</td><td>感冒</td><td>发展</td><td>生日</td></tr><tr><td>过敏</td><td>过年</td><td>感动</td><td>生气</td></tr><tr><td>过程</td><td>发明</td><td>感觉</td><td>感谢</td></tr><tr><td>发现</td><td>生病</td><td>生活</td><td>发烧</td></tr></table>
+<table><tr><td>牙医</td><td>眼球</td><td>眼神</td><td>牙刷</td></tr><tr><td>牙膏</td><td>耳机</td><td>鼻子</td><td>眼泪</td></tr><tr><td>耳朵</td><td>牙齿</td><td>鼻祖</td><td>鼻血</td></tr><tr><td>耳光</td><td>耳环</td><td>鼻炎</td><td>眼镜</td></tr></table>
 
 </td></tr></table>
 
