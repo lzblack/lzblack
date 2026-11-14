@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>牙医</td><td>眼球</td><td>眼神</td><td>牙刷</td></tr><tr><td>牙膏</td><td>耳机</td><td>鼻子</td><td>眼泪</td></tr><tr><td>耳朵</td><td>牙齿</td><td>鼻祖</td><td>鼻血</td></tr><tr><td>耳光</td><td>耳环</td><td>鼻炎</td><td>眼镜</td></tr></table>
+<table><tr><td>下厨</td><td>上课</td><td>下载</td><td>外语</td></tr><tr><td>中国</td><td>上班</td><td>中心</td><td>下雨</td></tr><tr><td>中午</td><td>外面</td><td>外国</td><td>上海</td></tr><tr><td>下棋</td><td>外套</td><td>中毒</td><td>上网</td></tr></table>
 
 </td></tr></table>
 
