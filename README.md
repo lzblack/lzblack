@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>SUBSISTENCE</td><td>CHAIR</td><td>GAZE</td><td>HOLE</td></tr><tr><td>CHAMOMILE</td><td>OGLE</td><td>MATCHA</td><td>MIXED</td></tr><tr><td>BAND</td><td>BARTER</td><td>PIT</td><td>GAWK</td></tr><tr><td>PEER</td><td>DARJEELING</td><td>OOLONG</td><td>MARKET</td></tr></table>
+<table><tr><td>PHO</td><td>LAKSA</td><td>ELLIPTICAL</td><td>RING</td></tr><tr><td>FARM</td><td>GEOSTATIONARY</td><td>UDON</td><td>STONE</td></tr><tr><td>GLASS</td><td>POWER</td><td>RAMEN</td><td>LOW-EARTH</td></tr><tr><td>WARE</td><td>BOARD</td><td>NOTE</td><td>POLAR</td></tr></table>
 
 </td><td valign="top">
 
