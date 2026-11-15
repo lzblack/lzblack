@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>PHO</td><td>LAKSA</td><td>ELLIPTICAL</td><td>RING</td></tr><tr><td>FARM</td><td>GEOSTATIONARY</td><td>UDON</td><td>STONE</td></tr><tr><td>GLASS</td><td>POWER</td><td>RAMEN</td><td>LOW-EARTH</td></tr><tr><td>WARE</td><td>BOARD</td><td>NOTE</td><td>POLAR</td></tr></table>
+<table><tr><td>ANNULAR</td><td>GOWN</td><td>LUNAR</td><td>MEMORY FOAM</td></tr><tr><td>FUTON</td><td>DRIBBLE</td><td>PARTIAL</td><td>CLUB</td></tr><tr><td>TAD</td><td>STAND</td><td>CAP</td><td>TOTAL</td></tr><tr><td>INNERSPRING</td><td>SMIDGE</td><td>IOTA</td><td>LATEX</td></tr></table>
 
 </td><td valign="top">
 
