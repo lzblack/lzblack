@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>下厨</td><td>上课</td><td>下载</td><td>外语</td></tr><tr><td>中国</td><td>上班</td><td>中心</td><td>下雨</td></tr><tr><td>中午</td><td>外面</td><td>外国</td><td>上海</td></tr><tr><td>下棋</td><td>外套</td><td>中毒</td><td>上网</td></tr></table>
+<table><tr><td>大夫</td><td>大米</td><td>可爱</td><td>好吃</td></tr><tr><td>可乐</td><td>难吃</td><td>好听</td><td>难看</td></tr><tr><td>大方</td><td>大意</td><td>好看</td><td>可怜</td></tr><tr><td>难过</td><td>可能</td><td>难题</td><td>好玩</td></tr></table>
 
 </td></tr></table>
 
