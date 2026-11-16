@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>ANNULAR</td><td>GOWN</td><td>LUNAR</td><td>MEMORY FOAM</td></tr><tr><td>FUTON</td><td>DRIBBLE</td><td>PARTIAL</td><td>CLUB</td></tr><tr><td>TAD</td><td>STAND</td><td>CAP</td><td>TOTAL</td></tr><tr><td>INNERSPRING</td><td>SMIDGE</td><td>IOTA</td><td>LATEX</td></tr></table>
+<table><tr><td>SADDLE</td><td>HINGE</td><td>PALATINO</td><td>GRADE</td></tr><tr><td>FEATURE</td><td>HELVETICA</td><td>HEADLINE</td><td>APPEAR</td></tr><tr><td>ROAR</td><td>LIFT</td><td>STAIRS</td><td>BALL-AND-SOCKET</td></tr><tr><td>GARAMOND</td><td>STAR</td><td>PIVOT</td><td>TIMES NEW ROMAN</td></tr></table>
 
 </td><td valign="top">
 
