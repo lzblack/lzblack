@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>SADDLE</td><td>HINGE</td><td>PALATINO</td><td>GRADE</td></tr><tr><td>FEATURE</td><td>HELVETICA</td><td>HEADLINE</td><td>APPEAR</td></tr><tr><td>ROAR</td><td>LIFT</td><td>STAIRS</td><td>BALL-AND-SOCKET</td></tr><tr><td>GARAMOND</td><td>STAR</td><td>PIVOT</td><td>TIMES NEW ROMAN</td></tr></table>
+<table><tr><td>SIRLOIN</td><td>WEED</td><td>GULL</td><td>EXIT</td></tr><tr><td>RIB-EYE</td><td>SHORE</td><td>FOOD</td><td>PORTERHOUSE</td></tr><tr><td>PANEL</td><td>FLANK</td><td>PHONE SCREEN</td><td>DELTA</td></tr><tr><td>CAPE</td><td>GULF</td><td>RIDGE</td><td>BEHAVIORAL</td></tr></table>
 
 </td><td valign="top">
 
