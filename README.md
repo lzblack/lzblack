@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>大夫</td><td>大米</td><td>可爱</td><td>好吃</td></tr><tr><td>可乐</td><td>难吃</td><td>好听</td><td>难看</td></tr><tr><td>大方</td><td>大意</td><td>好看</td><td>可怜</td></tr><tr><td>难过</td><td>可能</td><td>难题</td><td>好玩</td></tr></table>
+<table><tr><td>小说</td><td>老虎</td><td>大米</td><td>中心</td></tr><tr><td>小吃</td><td>大意</td><td>大方</td><td>中毒</td></tr><tr><td>中奖</td><td>大人</td><td>中午</td><td>老鼠</td></tr><tr><td>小时</td><td>小心</td><td>老板</td><td>老师</td></tr></table>
 
 </td></tr></table>
 
