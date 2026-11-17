@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>小说</td><td>老虎</td><td>大米</td><td>中心</td></tr><tr><td>小吃</td><td>大意</td><td>大方</td><td>中毒</td></tr><tr><td>中奖</td><td>大人</td><td>中午</td><td>老鼠</td></tr><tr><td>小时</td><td>小心</td><td>老板</td><td>老师</td></tr></table>
+<table><tr><td>进步</td><td>进攻</td><td>回忆</td><td>进化</td></tr><tr><td>出发</td><td>退步</td><td>出席</td><td>回家</td></tr><tr><td>进口</td><td>退款</td><td>出口</td><td>退休</td></tr><tr><td>出色</td><td>回头</td><td>退出</td><td>回收</td></tr></table>
 
 </td></tr></table>
 
