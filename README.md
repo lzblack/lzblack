@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>COBRA</td><td>PINOCHLE</td><td>CLAY</td><td>RUMMY</td></tr><tr><td>BALL</td><td>FLAKE</td><td>PLOW</td><td>CANASTA</td></tr><tr><td>BOARD</td><td>LOAM</td><td>PEAT</td><td>DOWNWARD DOG</td></tr><tr><td>SNAP</td><td>SILT</td><td>LOTUS</td><td>WARRIOR</td></tr></table>
+<table><tr><td>SNIFTER</td><td>CHORTLE</td><td>TUMBLER</td><td>LOCK</td></tr><tr><td>GOBLET</td><td>LANCET</td><td>SNICKER</td><td>BAY</td></tr><tr><td>SASH</td><td>DORMER</td><td>FIELD</td><td>CHUCKLE</td></tr><tr><td>CRAFT</td><td>PORT</td><td>FLUTE</td><td>CACKLE</td></tr></table>
 
 </td><td valign="top">
 
