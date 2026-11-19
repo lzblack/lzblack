@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>光荣</td><td>电话</td><td>音符</td><td>电脑</td></tr><tr><td>音量</td><td>音响</td><td>热血</td><td>电视</td></tr><tr><td>热情</td><td>光明</td><td>光线</td><td>电影</td></tr><tr><td>音乐</td><td>热闹</td><td>热水</td><td>光盘</td></tr></table>
+<table><tr><td>白云</td><td>蓝莓</td><td>蓝图</td><td>蓝天</td></tr><tr><td>黄牛</td><td>白银</td><td>黄金</td><td>红娘</td></tr><tr><td>红包</td><td>黄河</td><td>红军</td><td>红烧</td></tr><tr><td>白菜</td><td>白费</td><td>蓝牙</td><td>黄瓜</td></tr></table>
 
 </td></tr></table>
 
