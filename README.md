@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>SNIFTER</td><td>CHORTLE</td><td>TUMBLER</td><td>LOCK</td></tr><tr><td>GOBLET</td><td>LANCET</td><td>SNICKER</td><td>BAY</td></tr><tr><td>SASH</td><td>DORMER</td><td>FIELD</td><td>CHUCKLE</td></tr><tr><td>CRAFT</td><td>PORT</td><td>FLUTE</td><td>CACKLE</td></tr></table>
+<table><tr><td>ABSTENTION</td><td>PROXY</td><td>MARK</td><td>SHELF</td></tr><tr><td>CONTOUR</td><td>RAMBLE</td><td>BABBLE</td><td>CHOROPLETH</td></tr><tr><td>BLATHER</td><td>END</td><td>CASTING</td><td>TOPOGRAPHIC</td></tr><tr><td>PRATTLE</td><td>CASE</td><td>RELIEF</td><td>SECRET BALLOT</td></tr></table>
 
 </td><td valign="top">
 
