@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>白云</td><td>蓝莓</td><td>蓝图</td><td>蓝天</td></tr><tr><td>黄牛</td><td>白银</td><td>黄金</td><td>红娘</td></tr><tr><td>红包</td><td>黄河</td><td>红军</td><td>红烧</td></tr><tr><td>白菜</td><td>白费</td><td>蓝牙</td><td>黄瓜</td></tr></table>
+<table><tr><td>马虎</td><td>牛肉</td><td>猪头</td><td>牛奶</td></tr><tr><td>牛皮</td><td>猪年</td><td>羊年</td><td>羊群</td></tr><tr><td>羊肉</td><td>马路</td><td>羊毛</td><td>马上</td></tr><tr><td>猪肉</td><td>马桶</td><td>牛仔</td><td>猪蹄</td></tr></table>
 
 </td></tr></table>
 
