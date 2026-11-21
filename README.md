@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>ABSTENTION</td><td>PROXY</td><td>MARK</td><td>SHELF</td></tr><tr><td>CONTOUR</td><td>RAMBLE</td><td>BABBLE</td><td>CHOROPLETH</td></tr><tr><td>BLATHER</td><td>END</td><td>CASTING</td><td>TOPOGRAPHIC</td></tr><tr><td>PRATTLE</td><td>CASE</td><td>RELIEF</td><td>SECRET BALLOT</td></tr></table>
+<table><tr><td>DOOR</td><td>CHOKE</td><td>AGE</td><td>FIT</td></tr><tr><td>SPELL</td><td>SLAPSTICK</td><td>DRY</td><td>FLEA</td></tr><tr><td>GALLOWS</td><td>BREAK</td><td>EPOCH</td><td>MARTINGALE</td></tr><tr><td>SMART</td><td>ERA</td><td>ELIZABETHAN</td><td>DEADPAN</td></tr></table>
 
 </td><td valign="top">
 
