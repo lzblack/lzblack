@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>马虎</td><td>牛肉</td><td>猪头</td><td>牛奶</td></tr><tr><td>牛皮</td><td>猪年</td><td>羊年</td><td>羊群</td></tr><tr><td>羊肉</td><td>马路</td><td>羊毛</td><td>马上</td></tr><tr><td>猪肉</td><td>马桶</td><td>牛仔</td><td>猪蹄</td></tr></table>
+<table><tr><td>不客气</td><td>没关系</td><td>情人节</td><td>恭喜你</td></tr><tr><td>晚上好</td><td>圣诞节</td><td>对不起</td><td>下午好</td></tr><tr><td>回头见</td><td>谢谢你</td><td>新年好</td><td>明天见</td></tr><tr><td>早上好</td><td>再见了</td><td>你好吗</td><td>后会有期</td></tr></table>
 
 </td></tr></table>
 
