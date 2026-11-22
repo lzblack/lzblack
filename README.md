@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>DOOR</td><td>CHOKE</td><td>AGE</td><td>FIT</td></tr><tr><td>SPELL</td><td>SLAPSTICK</td><td>DRY</td><td>FLEA</td></tr><tr><td>GALLOWS</td><td>BREAK</td><td>EPOCH</td><td>MARTINGALE</td></tr><tr><td>SMART</td><td>ERA</td><td>ELIZABETHAN</td><td>DEADPAN</td></tr></table>
+<table><tr><td>REGIONAL</td><td>FLAKY</td><td>SHORTCRUST</td><td>GRAHAM CRACKER</td></tr><tr><td>MIRROR</td><td>HILL</td><td>GENERAL</td><td>APE</td></tr><tr><td>FALL</td><td>LOAD</td><td>LOCAL</td><td>EPIDURAL</td></tr><tr><td>TOWN</td><td>ECHO</td><td>PARROT</td><td>BLIND-BAKED</td></tr></table>
 
 </td><td valign="top">
 
