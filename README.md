@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>不客气</td><td>没关系</td><td>情人节</td><td>恭喜你</td></tr><tr><td>晚上好</td><td>圣诞节</td><td>对不起</td><td>下午好</td></tr><tr><td>回头见</td><td>谢谢你</td><td>新年好</td><td>明天见</td></tr><tr><td>早上好</td><td>再见了</td><td>你好吗</td><td>后会有期</td></tr></table>
+<table><tr><td>租车</td><td>买单</td><td>借用</td><td>卖萌</td></tr><tr><td>买家</td><td>借口</td><td>买票</td><td>卖力</td></tr><tr><td>卖点</td><td>借助</td><td>租房</td><td>租用</td></tr><tr><td>租金</td><td>卖场</td><td>借钱</td><td>买卖</td></tr></table>
 
 </td></tr></table>
 
