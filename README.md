@@ -22,13 +22,13 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>REGIONAL</td><td>FLAKY</td><td>SHORTCRUST</td><td>GRAHAM CRACKER</td></tr><tr><td>MIRROR</td><td>HILL</td><td>GENERAL</td><td>APE</td></tr><tr><td>FALL</td><td>LOAD</td><td>LOCAL</td><td>EPIDURAL</td></tr><tr><td>TOWN</td><td>ECHO</td><td>PARROT</td><td>BLIND-BAKED</td></tr></table>
+<table><tr><td>DEMOLISH</td><td>SIDE</td><td>GABLE</td><td>HIP</td></tr><tr><td>PATIENT</td><td>RAZE</td><td>LEASE</td><td>FUTURES</td></tr><tr><td>FIXED-PRICE</td><td>DOOR</td><td>GAMBREL</td><td>MANSARD</td></tr><tr><td>RUIN</td><td>WRECK</td><td>FIELD</td><td>VERBAL</td></tr></table>
 
 </td><td valign="top">
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>租车</td><td>买单</td><td>借用</td><td>卖萌</td></tr><tr><td>买家</td><td>借口</td><td>买票</td><td>卖力</td></tr><tr><td>卖点</td><td>借助</td><td>租房</td><td>租用</td></tr><tr><td>租金</td><td>卖场</td><td>借钱</td><td>买卖</td></tr></table>
+<table><tr><td>写字</td><td>写作</td><td>画笔</td><td>画面</td></tr><tr><td>跑道</td><td>唱歌</td><td>唱戏</td><td>写真</td></tr><tr><td>跑车</td><td>写信</td><td>唱腔</td><td>画框</td></tr><tr><td>唱片</td><td>画报</td><td>跑步</td><td>跑腿</td></tr></table>
 
 </td></tr></table>
 
