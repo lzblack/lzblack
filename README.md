@@ -22,13 +22,13 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>DEMOLISH</td><td>SIDE</td><td>GABLE</td><td>HIP</td></tr><tr><td>PATIENT</td><td>RAZE</td><td>LEASE</td><td>FUTURES</td></tr><tr><td>FIXED-PRICE</td><td>DOOR</td><td>GAMBREL</td><td>MANSARD</td></tr><tr><td>RUIN</td><td>WRECK</td><td>FIELD</td><td>VERBAL</td></tr></table>
+<table><tr><td>SHORE</td><td>SKIM</td><td>CONSTITUENCY</td><td>WARD</td></tr><tr><td>LOFT</td><td>PRECINCT</td><td>SWORD</td><td>HURL</td></tr><tr><td>HOUSE</td><td>ALMOND</td><td>OAT</td><td>TOSS</td></tr><tr><td>BOW</td><td>BUTTERMILK</td><td>DISTRICT</td><td>HEAVE</td></tr></table>
 
 </td><td valign="top">
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>写字</td><td>写作</td><td>画笔</td><td>画面</td></tr><tr><td>跑道</td><td>唱歌</td><td>唱戏</td><td>写真</td></tr><tr><td>跑车</td><td>写信</td><td>唱腔</td><td>画框</td></tr><tr><td>唱片</td><td>画报</td><td>跑步</td><td>跑腿</td></tr></table>
+<table><tr><td>笑声</td><td>怒火</td><td>怒吼</td><td>笑容</td></tr><tr><td>怕羞</td><td>怒骂</td><td>怕冷</td><td>怒气</td></tr><tr><td>笑话</td><td>哭笑</td><td>怕事</td><td>怕死</td></tr><tr><td>哭声</td><td>哭诉</td><td>哭泣</td><td>笑脸</td></tr></table>
 
 </td></tr></table>
 
