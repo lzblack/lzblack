@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>笑声</td><td>怒火</td><td>怒吼</td><td>笑容</td></tr><tr><td>怕羞</td><td>怒骂</td><td>怕冷</td><td>怒气</td></tr><tr><td>笑话</td><td>哭笑</td><td>怕事</td><td>怕死</td></tr><tr><td>哭声</td><td>哭诉</td><td>哭泣</td><td>笑脸</td></tr></table>
+<table><tr><td>停止</td><td>走道</td><td>停课</td><td>逃避</td></tr><tr><td>逃跑</td><td>追问</td><td>逃课</td><td>停电</td></tr><tr><td>走势</td><td>停车</td><td>追剧</td><td>追求</td></tr><tr><td>追星</td><td>走私</td><td>逃脱</td><td>走廊</td></tr></table>
 
 </td></tr></table>
 
