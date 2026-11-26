@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>FIRE</td><td>LAMINATE</td><td>CLINK</td><td>SHUTTLE</td></tr><tr><td>HARDWOOD</td><td>BONES</td><td>PING-PONG</td><td>GUNBOAT</td></tr><tr><td>TERRAZZO</td><td>COERCIVE</td><td>SLAMMER</td><td>ROADS</td></tr><tr><td>WORD</td><td>VINYL</td><td>BIG HOUSE</td><td>PEN</td></tr></table>
+<table><tr><td>SINK IN</td><td>SECURED</td><td>RULE</td><td>BRAD</td></tr><tr><td>LOOK</td><td>REGISTER</td><td>CONSUMER</td><td>CLICK</td></tr><tr><td>FINISHING</td><td>FLOW</td><td>SOVEREIGN</td><td>NATIONAL</td></tr><tr><td>ROOFING</td><td>BOARD</td><td>DAWN</td><td>SPIRAL</td></tr></table>
 
 </td><td valign="top">
 
