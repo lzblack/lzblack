@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>停止</td><td>走道</td><td>停课</td><td>逃避</td></tr><tr><td>逃跑</td><td>追问</td><td>逃课</td><td>停电</td></tr><tr><td>走势</td><td>停车</td><td>追剧</td><td>追求</td></tr><tr><td>追星</td><td>走私</td><td>逃脱</td><td>走廊</td></tr></table>
+<table><tr><td>梦见</td><td>醒来</td><td>醒目</td><td>醒神</td></tr><tr><td>梦境</td><td>醉意</td><td>醒悟</td><td>睡眠</td></tr><tr><td>睡袋</td><td>醉心</td><td>睡衣</td><td>醉酒</td></tr><tr><td>梦想</td><td>醉人</td><td>梦幻</td><td>睡觉</td></tr></table>
 
 </td></tr></table>
 
