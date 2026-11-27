@@ -22,7 +22,7 @@
 
 [**English**](https://connections.zhili.dev/?lang=en)
 
-<table><tr><td>SINK IN</td><td>SECURED</td><td>RULE</td><td>BRAD</td></tr><tr><td>LOOK</td><td>REGISTER</td><td>CONSUMER</td><td>CLICK</td></tr><tr><td>FINISHING</td><td>FLOW</td><td>SOVEREIGN</td><td>NATIONAL</td></tr><tr><td>ROOFING</td><td>BOARD</td><td>DAWN</td><td>SPIRAL</td></tr></table>
+<table><tr><td>BICKER</td><td>WRANGLE</td><td>SQUABBLE</td><td>COD</td></tr><tr><td>KNIFE</td><td>HAIR</td><td>SHORE</td><td>TREE</td></tr><tr><td>QUARREL</td><td>HAKE</td><td>RAZOR</td><td>PENCIL</td></tr><tr><td>BASS</td><td>DEAD</td><td>SOLE</td><td>NEEDLE</td></tr></table>
 
 </td><td valign="top">
 
