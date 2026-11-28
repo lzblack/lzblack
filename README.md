@@ -28,7 +28,7 @@
 
 [**中文**](https://connections.zhili.dev/?lang=zh)
 
-<table><tr><td>梦见</td><td>醒来</td><td>醒目</td><td>醒神</td></tr><tr><td>梦境</td><td>醉意</td><td>醒悟</td><td>睡眠</td></tr><tr><td>睡袋</td><td>醉心</td><td>睡衣</td><td>醉酒</td></tr><tr><td>梦想</td><td>醉人</td><td>梦幻</td><td>睡觉</td></tr></table>
+<table><tr><td>考研</td><td>考试</td><td>读书</td><td>学费</td></tr><tr><td>学校</td><td>读音</td><td>学生</td><td>读者</td></tr><tr><td>考卷</td><td>教育</td><td>教室</td><td>学习</td></tr><tr><td>教材</td><td>教师</td><td>考场</td><td>读物</td></tr></table>
 
 </td></tr></table>
 
